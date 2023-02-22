@@ -3,7 +3,7 @@ main = "./build/index.js"
 workers_dev = true
 compatibility_date = "2022-11-30"
 
-kv_namespaces = [{ binding = "DB", id = "293ac4c6310245ee8b87c7a070ae24b2" }]
+kv_namespaces = [{ binding = "DB", id = "cf4ceb8a79e94a8587f4ef71a07ae6a2" }]
 
 [build]
 command = "npm run build"
